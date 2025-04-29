@@ -28,7 +28,7 @@ class Splashview extends StatelessWidget {
               totalRepeatCount: 1,
               animatedTexts: [
                 TypewriterAnimatedText(
-                  ' الـــوٌردُ الـــيَـوْمـيِ لِـحِـفـظِ الـقُـرآن الـكـريـم مِـنْ سـورة المائدة الي سورة يونس',
+                  ' الـــوٌردُ الـــيَـوْمـيِ لِـحِـفـظِ الـقُـرآن الـكـريـم مِـنْ سـورة اليقره الي سورة المائده',
                   textStyle: Appfonts.fontlogo.copyWith(fontSize: width / 15,color: Color.fromARGB(255, 22, 137, 157)),
                   textAlign: TextAlign.center,
                 ),
